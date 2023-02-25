@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: 'Manrope';
+}
+
+.auth {
+  background-image: url('/src/assets/images/auth.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}

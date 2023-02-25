@@ -1,0 +1,2 @@
+export const SET_LOGIN = 'SET_LOGIN';
+export const SET_SIDEBAR_TOGGLE = 'SET_SIDEBAR_TOGGLE';
